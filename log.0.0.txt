@@ -1,0 +1,24 @@
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
+апр. 07, 2023 9:32:44 PM hw2.task.Task1 arraySorted
+INFO: Сортировка прошла успешно!
